@@ -152,10 +152,10 @@ const ChatApp = () => {
 
     return (
         <div className="h-full w-full md:w-11/12 mx-auto lg:w-1/3 lg:fixed lg:bottom-0">
-            <div className="w-full max-w-2xl bg-white p-6">
+            <div className="w-full bg-gray-50">
                 <div
                     ref={chatContainerRef}
-                    className="lg:h-[calc(100vh-100px)] h-[calc(100vh-184px)] overflow-y-scroll mb-4 space-y-4"
+                    className="lg:h-[calc(100vh-100px)] h-[calc(100vh-184px)] overflow-y-scroll mb-4 space-y-4 p-4"
                 >
                     {chatHistory.map((message, index) => (
                         <div
@@ -166,7 +166,7 @@ const ChatApp = () => {
                                 className={`max-w-3/4 ${message.sender === "User"
                                     ? "bg-blue-500 text-white"
                                     : "bg-gray-200 text-black"
-                                    } rounded-lg p-4`}
+                                    } rounded-lg p-2`}
                                 style={{
                                     backgroundColor: message.properties.background_color || undefined,
                                     color: message.properties.text_color || undefined,
@@ -191,7 +191,7 @@ const ChatApp = () => {
                         </div>
                     ))}
                 </div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 p-4">
                     <Input
                         type="text"
                         placeholder="Type your message..."
