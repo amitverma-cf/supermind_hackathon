@@ -34,6 +34,12 @@ Watch our Video Demonstration of Kaizen and How we built using DataStax Langflow
 
 ---
 
+## Langflow Screenshot
+
+![DataStax Langflow Screenshot](/public/langflow.png "DataStax Langflow Screenshot")
+
+---
+
 ## 📂 Project Structure  
 
 ```bash
