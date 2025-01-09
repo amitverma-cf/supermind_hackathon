@@ -34,7 +34,7 @@ This project is part of the Level Supermind Hackathon, focusing on analyzing soc
 ├── utils                  # Utility functions and helpers  
 └── README.md              # Project documentation
 
-🛠️ Installation
+## 🛠️ Installation
 Prerequisites
 Ensure you have the following installed on your system:
 
@@ -66,13 +66,13 @@ Copy code
 http://localhost:3000  
 
 
-✨ Usage
+## ✨ Usage
 Open the deployed project at Kaizen MU.
 Input the post type you want to analyze (e.g., reels, carousel).
 View the engagement metrics and AI-generated insights directly on the platform.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-🧑‍💻 Contributing
+## 🧑‍💻 Contributing
 We welcome contributions! Here's how you can contribute:
 
 Fork the repository.
@@ -90,7 +90,7 @@ Copy code
 git push origin feature-name  
 Submit a pull request.
 
-📦 Deployment
+## 📦 Deployment
 The project is deployed on Vercel for fast and reliable hosting. To deploy your own version:
 
 Create a Vercel account and link it to this repository.
@@ -98,9 +98,7 @@ Set up the environment variables for DataStax Astra DB and Langflow (if required
 Trigger a new build from the Vercel dashboard.
 Check out the Next.js Deployment Documentation for more details.
 
-.
-
-📚 Resources
+## 📚 Resources
 Next.js Documentation
 Langflow Documentation
 DataStax Astra DB
