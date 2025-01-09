@@ -34,3 +34,40 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# Social Media Performance Analysis  
+
+This project is part of the Level Supermind Hackathon, focusing on analyzing social media engagement using **Next.js**, **Langflow**, **DataStax Astra DB**, and GPT integration. It provides actionable insights into post performance based on mock engagement data.  
+
+---
+
+## 🚀 Features  
+
+- **Post Performance Analysis**: Analyze engagement metrics (likes, shares, comments) for different post types (carousel, reels, static images).  
+- **AI-Driven Insights**: Generate intelligent recommendations using GPT integration.  
+- **Langflow Integration**: Visual workflow creation for data querying and GPT analysis.  
+- **Deployed on Vercel**: Seamless and fast web hosting.  
+- **Next.js Framework**: Scalable and high-performance React framework for development.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend**: Next.js  
+- **Backend**: DataStax Astra DB for database operations  
+- **AI/Workflow**: Langflow with GPT Integration  
+- **Deployment**: Vercel  
+
+---
+
+## 📂 Project Structure  
+
+```bash
+├── app  
+│   └── page.tsx           # Main application page  
+├── public                 # Static assets  
+├── styles                 # CSS and styling files  
+├── components             # Reusable UI components  
+├── utils                  # Utility functions and helpers  
+└── README.md              # Project documentation  
