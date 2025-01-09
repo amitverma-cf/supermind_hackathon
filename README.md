@@ -1,7 +1,9 @@
 # 🍀 Kaizen - A Social Media Performance Analysis  
 
 This project is part of the Level Supermind Hackathon, focusing on analyzing social media engagement using **Next.js**, **Langflow**, **DataStax Astra DB**, and **Nvidia - Mixtral** integration. It provides actionable insights into post performance based on mock engagement data.
+
 ![Kaizen UI](/public/kaizen-UI.jpg "Kaizen UI")
+
 - See our Website: [Kaizen-mu.vercel.app](https://kaizen-mu.vercel.app/)
 
 ---
@@ -9,7 +11,7 @@ This project is part of the Level Supermind Hackathon, focusing on analyzing soc
 ## 🚀 Features  
 
 - **Post Performance Analysis**: Analyze engagement metrics (likes, shares, comments) for different post types (carousel, reels, static images).  
-- **AI-Driven Insights**: Generate intelligent recommendations using Nvidia - Llama integration.  
+- **AI-Driven Insights**: Generate intelligent recommendations using Nvidia - Mixtral integration.  
 - **Langflow Integration**: Visual workflow creation for data querying and analysis.  
 - **Deployed on Vercel**: Seamless and fast web hosting.  
 - **Next.js Framework**: Scalable and high-performance React framework for development.  
@@ -18,13 +20,16 @@ This project is part of the Level Supermind Hackathon, focusing on analyzing soc
 
 ## 📺 Demo Video
 
+Watch our Video Demonstration of Kaizen and How we built using DataStax Langflow, Astra DB and Nvidia - Mixtral model.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ---
 
 ## 🛠️ Tech Stack  
 
 - **Frontend**: Next.js  
 - **Backend**: DataStax Astra DB for database operations   
-- **AI/Workflow**: Langflow with Nvidia:meta/llama-3.1-70b-instruct and Nvidia:snowflake-arctic-embed-l
+- **AI/Workflow**: Langflow with Nvidia:mistralai/mixtral-8x22b-instruct-v0.1
 - **Deployment**: Vercel  
 
 ---
