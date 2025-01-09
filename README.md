@@ -4,7 +4,7 @@ This project is part of the Level Supermind Hackathon, focusing on analyzing soc
 
 ![Kaizen UI](/public/kaizen-UI.jpg "Kaizen UI")
 
-- See our Website: [Kaizen-mu.vercel.app](https://kaizen-mu.vercel.app/)
+- Visit Website: [Kaizen-mu.vercel.app](https://kaizen-mu.vercel.app/)
 
 ---
 
@@ -21,6 +21,7 @@ This project is part of the Level Supermind Hackathon, focusing on analyzing soc
 ## 📺 Demo Video
 
 Watch our Video Demonstration of Kaizen and How we built using DataStax Langflow, Astra DB and Nvidia - Mixtral model.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ---
@@ -34,7 +35,9 @@ Watch our Video Demonstration of Kaizen and How we built using DataStax Langflow
 
 ---
 
-## Langflow Screenshot
+## 😶‍🌫️ DataStax Langflow Screenshot
+
+Here is the Langflow we used to build this RAG app using DataStax platform with AstraDB, Nvidia - Mixtral Integration.
 
 ![DataStax Langflow Screenshot](/public/langflow.png "DataStax Langflow Screenshot")
 
@@ -73,12 +76,12 @@ npm run dev
 
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Contributors
+## 🙌 Contributors
 
 - **Amit Verma**: See [LinkedIn](https://www.linkedin.com/in/amve-me)
 - **Prithviraj Patil**: See [LinkedIn](https://www.linkedin.com/in/prithviraj6544/)
 
-## License
+## ❤️ License
 
 This project is licensed under the [MIT License](LICENSE).
 
