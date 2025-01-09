@@ -1,6 +1,7 @@
 # 🍀 Kaizen - A Social Media Performance Analysis  
 
-- This project is part of the Level Supermind Hackathon, focusing on analyzing social media engagement using **Next.js**, **Langflow**, **DataStax Astra DB**, and **Nvidia - Llama** integration. It provides actionable insights into post performance based on mock engagement data.
+This project is part of the Level Supermind Hackathon, focusing on analyzing social media engagement using **Next.js**, **Langflow**, **DataStax Astra DB**, and **Nvidia - Mixtral** integration. It provides actionable insights into post performance based on mock engagement data.
+![Kaizen UI](/public/kaizen-UI.jpg "Kaizen UI")
 - See our Website: [Kaizen-mu.vercel.app](https://kaizen-mu.vercel.app/)
 
 ---
