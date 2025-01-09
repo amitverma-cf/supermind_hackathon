@@ -1,7 +1,7 @@
-# Kaizen - A Social Media Performance Analysis  
+# 🍀 Kaizen - A Social Media Performance Analysis  
 
-This project is part of the Level Supermind Hackathon, focusing on analyzing social media engagement using **Next.js**, **Langflow**, **DataStax Astra DB**, and **Nvidia - Llama** integration. It provides actionable insights into post performance based on mock engagement data.
-See our Website: [https://kaizen-mu.vercel.app/](Visit Kaizen)
+- This project is part of the Level Supermind Hackathon, focusing on analyzing social media engagement using **Next.js**, **Langflow**, **DataStax Astra DB**, and **Nvidia - Llama** integration. It provides actionable insights into post performance based on mock engagement data.
+- See our Website: [Kaizen-mu.vercel.app](https://kaizen-mu.vercel.app/)
 
 ---
 
@@ -15,7 +15,7 @@ See our Website: [https://kaizen-mu.vercel.app/](Visit Kaizen)
 
 ---
 
-## Demo Video
+## 📺 Demo Video
 
 ---
 
@@ -39,18 +39,36 @@ See our Website: [https://kaizen-mu.vercel.app/](Visit Kaizen)
 └── README.md              # Project documentation
 ```
 
-## Getting Started
+## 👀 Getting Started
 
+- First, Clone and Install packages:
 ```bash
-
-npm install            // First, Clone and Install packages
-
-npm run dev            // Then, run the development server
+git clone https://github.com/amitverma-cf/supermind_hackathon.git
+```
+```bash
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Now, Create .env file and add this key into .env file:
+```bash
+DATASTAX_APPLICATION_TOKEN=[Your_DataStax_Langflow_Api_Key]
+```
 
-You can start editing the page by modifying `app/page.tsx`.
+- Then, run the development server:
+```bash
+npm run dev
+```
+
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Contributors
+
+- **Amit Verma**: See [LinkedIn](https://www.linkedin.com/in/amve-me)
+- **Prithviraj Patil**: See [LinkedIn](https://www.linkedin.com/in/prithviraj6544/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 
