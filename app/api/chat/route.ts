@@ -61,8 +61,8 @@ export async function POST(req: Request) {
     }
 
     const baseURL = "https://api.langflow.astra.datastax.com";
-    const flowId = "d5869d8f-5f81-4282-8ddd-4b4ad40cdd95";
-    const langflowId = "f1cd93bf-fb2d-412e-a256-026dc10189a4";
+    const flowId = 'c25d6dc5-97af-42d0-8cae-c0bb02b7fb4c';
+    const langflowId = 'f1cd93bf-fb2d-412e-a256-026dc10189a4';
     const stream = false;
     const langflowClient = new LangflowClient(baseURL, applicationToken);
 
