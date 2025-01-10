@@ -18,7 +18,7 @@ export function Header() {
                     <Link href={"https://github.com/amitverma-cf/supermind_hackathon"}>Github <ArrowUpRight className="inline transition-opacity" /></Link>
                 </MenubarMenu>
                 <MenubarMenu>
-                    <Link href={"https://youtube.com"}>Watch Video <ArrowUpRight className="inline transition-opacity" /></Link>
+                    <Link href={"https://www.youtube.com/watch?v=03xWEBL1XSA"}>Watch Video <ArrowUpRight className="inline transition-opacity" /></Link>
                 </MenubarMenu>
                 <MenubarMenu>
                     <MenubarTrigger className="cursor-pointer">More</MenubarTrigger>
@@ -48,7 +48,7 @@ export function Header() {
                             <Link href={"https://github.com/amitverma-cf/supermind_hackathon"}>Github <ArrowUpRight className="inline" /></Link>
                         </MenubarItem>
                         <MenubarItem >
-                            <Link href={"https://youtube.com"}>Watch Video <ArrowUpRight className="inline" /></Link>
+                            <Link href={"https://www.youtube.com/watch?v=03xWEBL1XSA"}>Watch Video <ArrowUpRight className="inline" /></Link>
                         </MenubarItem>
                         <MenubarItem >
                             <Link href="/data.csv" download="data.csv">Download CSV <Download className="inline" /></Link>
