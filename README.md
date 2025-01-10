@@ -22,7 +22,7 @@ This project is part of the Level Supermind Hackathon, focusing on analyzing soc
 
 Watch our Video Demonstration of Kaizen and How we built using DataStax Langflow, Astra DB and Nvidia - Mixtral model.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/03xWEBL1XSA/0.jpg)](https://www.youtube.com/watch?v=03xWEBL1XSA)
 
 ---
 
