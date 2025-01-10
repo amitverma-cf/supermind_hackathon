@@ -152,9 +152,9 @@ export function DataTable({ data }: { data: SocialData[] }) {
                     <SelectContent>
                         <SelectItem value="All Types">All Types</SelectItem>
                         <SelectItem value="Static">Static</SelectItem>
-                        <SelectItem value="Video">Video</SelectItem>
+                        {/* <SelectItem value="Video">Video</SelectItem> */}
                         <SelectItem value="Carousel">Carousel</SelectItem>
-                        <SelectItem value="Story">Story</SelectItem>
+                        {/* <SelectItem value="Story">Story</SelectItem> */}
                         <SelectItem value="Reel">Reel</SelectItem>
                     </SelectContent>
                 </Select>
@@ -178,7 +178,7 @@ export function DataTable({ data }: { data: SocialData[] }) {
                                             column.toggleVisibility(!!value)
                                         }
                                     >
-                                        {column.id}
+                                        {column.id.replace('_', " ")}
                                     </DropdownMenuCheckboxItem>
                                 )
                             })}
